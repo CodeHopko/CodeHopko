@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodeHopko
-- 👀 I’m interested in big scalable technology
-- 🌱 I’m currently learning Terraform, Jenkins, AWS
-- 💞️ I’m looking to collaborate on an ML/Big Data project
-- 📫 How to reach me ... 
+- 👀 I’m interested in building big, important things
+- 🌱 I’m currently learning Terraform, Jenkins, AWS, Spark, Python, Scala
+- 💞️ I would like to learn: ML/AI, Go/Rust, how to make a tech startup
+- 📫 How to reach me: codehopko@gmail.com
 
 <!---
 CodeHopko/CodeHopko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
